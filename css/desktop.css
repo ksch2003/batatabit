@@ -1,0 +1,11 @@
+.product-card--container {
+    display: grid;
+    max-width: 930px;
+    grid-template-columns: 1fr 1fr;
+    margin: 0 auto;
+    overflow-x: hidden;
+}
+.plans-container--slider {
+    max-width: 930px;
+    margin: 0 auto;
+}
